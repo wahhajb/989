@@ -6,23 +6,23 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6285150910870', 'Zeltoria', true],
+['201028085788', 'ELAKRAB ELYOTUBER ♥✨', true],
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6285150910870'
-global.packname = 'Made With'
-global.author = '© Clara - MD'
-global.namebot = 'Clara - MD'
-global.wm = '© Clara - MD'
-global.stickpack = 'Made With'
-global.stickauth = '© Clara - MD'
-global.fotonya = 'https://telegra.ph/file/7a72c74871ac2fb87b8df.jpg'
+global.nomorwa = '201028085788'
+global.packname = 'elakreb elyotuber '
+global.author = '© elakreb elyotuber '
+global.namebot = 'elakreb elyotuber'
+global.wm = '© elakreb elyotuber'
+global.stickpack = 'elakreb elyotuber'
+global.stickauth = '© elakreb elyotuber'
+global.fotonya = 'https://telegra.ph/file/666f347726644b3f59504.mp4'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/danil_elistz'
-global.sgh = 'https://github.com/Zeltoria'
-global.sgc = 'https://chat.whatsapp.com/Fi5CZvazVIc0T7LCrxiqDV'
+global.sig = 'https://atom.bio/elakrabelyotyobr'
+global.sgh = 'https://www.youtube.com/@Elakrab'
+global.sgc = 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f'
 // Payment
 global.dana = '085176701771'
 // Info Wait
